@@ -4,6 +4,9 @@
 	padding: 0;
 	transition: 0.4s;
 }
+.container{
+       overflow-x: hidden !important;
+}
 button{
 	margin: 20px;
 }
